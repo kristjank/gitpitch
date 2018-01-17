@@ -1,6 +1,7 @@
 @title[Introduction]
 
-# ARK<span class="gold">Ecosystem</span>
+# ARK
+# <span class="gold">Ecosystem</span>
 
 #### Push.Button.Deployable Blockchains.*
 <br>
