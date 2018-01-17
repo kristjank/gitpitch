@@ -1,11 +1,11 @@
 @title[Introduction]
 
-# Git<span class="gold">Pitch</span>
+# ARK<span class="gold">Ecosystem</span>
 
-#### Markdown Presentations For Everyone on Git.*
+#### Push.Button.Deployable Blockchains.*
 <br>
 <br>
-<span class="byline">[ GitHub, GitLab, Bitbucket, GitBucket, Gitea, Gogs ]</span>
+<span class="byline">[ www.ark.io, github.com/ArkEcosystem ]</span>
 
 ---
 
